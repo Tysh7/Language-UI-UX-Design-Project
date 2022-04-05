@@ -15,8 +15,17 @@ Hero Draft - Home Page
 
 
 
+
+
+
+
 Home Page - desktop Version
 ![image](https://user-images.githubusercontent.com/72018100/161729717-e34eb28b-d40b-42cb-a354-1f70e1d4d8c3.png)
+
+
+
+
+
 
 
 Hompe Page - Mobile Version
