@@ -2,6 +2,8 @@
 Link below  to Figma Project 
 https://www.figma.com/file/Nw0grQeRZdc7hQXppjGfE2/Language-UI%2FUX-Design-Project?node-id=0%3A1
 
+This is current project I am working on which is buildng a Langauge Business App.
+
 What I learnt
 - Wireframe
 - Mockup
